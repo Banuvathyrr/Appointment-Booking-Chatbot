@@ -95,4 +95,4 @@ Orthopedics: Tue, Fri (10:00 AM - 2:00 PM)
 - Enhance AI responses with contextual patient history.
  
 **DEMO LINK**
-https://drive.google.com/file/d/1-BUlD-kbj5778Un-RnBHgQgDc9SGaVeX/view?usp=sharing
+https://drive.google.com/drive/folders/1DVrap-SjWwkBiljb5nA3il60UO_DPfBp?usp=sharing
