@@ -5,8 +5,14 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 This project is a Doctor Appointment Booking Chatbot developed using Flask, Twilio's WhatsApp API, OpenAI's GPT-3.5, and MongoDB. It allows users to schedule appointments with various hospital departments via WhatsApp, providing a seamless and interactive experience. The chatbot handles user interactions, validates inputs, checks availability, and books appointments efficiently.
 
-![Image1](https://github.com/user-attachments/assets/c3f0d056-0e24-4e3e-94de-8847ad3c891e)
-![Image2](https://github.com/user-attachments/assets/87aa5ec0-5d4c-47b4-b38c-5989f8099dc3)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c3f0d056-0e24-4e3e-94de-8847ad3c891e" width="400" height="800">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/87aa5ec0-5d4c-47b4-b38c-5989f8099dc3" width="400" height="800">
+</p>
+
 
 
  
